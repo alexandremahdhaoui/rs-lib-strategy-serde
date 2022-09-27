@@ -1,5 +1,5 @@
 [package]
-name = "rs_lib_serde_strategy"
+name = "rs_lib_strategy_serde"
 version = "0.1.0"
 authors = ["alexandre.mahdhaoui <alexandre.mahdhaoui@gmail.com>"]
 edition = "2021"

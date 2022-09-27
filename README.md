@@ -1,4 +1,4 @@
-# rs-lib-serde-strategy
+# rs-lib-strategy-serde
 
 ## Usage
 
